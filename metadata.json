@@ -1,0 +1,5 @@
+{
+  "name": "pokedex_vibe",
+  "description": "A web application where users can search for any Pokémon by name and instantly view a complete information card containing stats, types, game appearances, abilities, and general data.",
+  "requestFramePermissions": []
+}
